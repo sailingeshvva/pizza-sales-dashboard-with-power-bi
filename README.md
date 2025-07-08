@@ -5,7 +5,7 @@ This is a Tableau dashboard I made using the US Superstore dataset. It helps bre
 
 ## What I Used
 - Tableau
-- Filters & Parameters
+- Filters & Parameters 
 - Bar Charts, Pie Charts, Geo Maps
 
 ## What I Learned
