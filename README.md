@@ -1,17 +1,19 @@
-# Sales Analysis Dashboard – Tableau
+# Pizza Sales Dashboard – Power BI
 
 ## About This Project
-This is a Tableau dashboard I made using the US Superstore dataset. It helps break down sales and profits by region, category, and shipping type. I used filters and charts to make it easy for someone to find out what’s working and what’s not in the business.
+I created a Power BI dashboard to look at sales data from a pizza business. The dashboard shows things like total revenue, best-selling pizzas, and what times people place the most orders. I also used filters so users can explore the data by category and date.
 
 ## What I Used
-- Tableau
-- Filters & Parameters 
-- Bar Charts, Pie Charts, Geo Maps
+- Power BI
+- DAX
+- Data Cleaning
+- Filters & Visuals
 
 ## What I Learned
-- How to use Tableau to turn raw data into insights
-- Creating visuals that highlight loss-making areas
-- Making dashboards interactive with filters and drop-downs
+- How to build a full dashboard from scratch in Power BI
+- Writing DAX formulas for KPIs like average order value
+- Making dashboards that are interactive and easy to use
 
 ## File
-- `Moc_Project.twbx`
+- `pizza project.pbix`
+
